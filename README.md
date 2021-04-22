@@ -2,8 +2,6 @@
 
 ## I'm Konstantin Baranov and that's my ✨GitHub✨ profile!
 
-![Face](https://sun9-38.userapi.com/impg/rbyM2y01bAW28t1OuVY5HkkCAAbKmUmfSRTI6A/b76F5ujsNbY.jpg?size=1620x2160&quality=96&sign=f80d127e9eab096275c8855cbd66b236&type=album)
-
 ### Languages:
 
 ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)
