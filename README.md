@@ -4,13 +4,19 @@
 
 ![Metrics](https://metrics.lecoq.io/seigtm?template=classic&base.metadata=0&languages=1&lines=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMoscow)
 
-## Follow Me:
+### Also check out my portfolio website 😎
+
+✨[_Click this link to check it out!_](http://www.seig.tk/)✨  
+[_Click to see site's repository._](https://github.com/seigtm/seigtm.github.io)  
+(Note: _the site is still in development_ 😢).
+
+### Follow me:
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/seigtm)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/theseig)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/seigtm)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/seigtm)
 
-## Thank you all 💖💖💖
+### Thank you all 💖💖💖
 
 ![Profile views](https://gpvc.arturio.dev/seigtm)
