@@ -6,7 +6,7 @@
 
 ### Also check out my portfolio website 😎
 
-✨[_Click this link to check it out!_](http://www.seig.tk/)✨  
+✨[_Click this link to check it out!_](https://seigtm.github.io)✨  
 [_Click to see site's repository._](https://github.com/seigtm/seigtm.github.io)  
 (Note: _the site is still in development_ 😢).
 
