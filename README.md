@@ -2,7 +2,7 @@
 
 ## I'm Konstantin Baranov and that's my ✨GitHub✨ profile!
 
-![Metrics](https://metrics.lecoq.io/seigtm?template=classic&base.metadata=0&languages=1&lines=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMoscow)
+![Metrics](https://github-readme-stats.vercel.app/api?username=seigtm&show_icons=true&theme=transparent)
 
 ### Also check out my portfolio website 😎
 
