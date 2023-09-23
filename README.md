@@ -63,6 +63,6 @@ With a thirst for knowledge, I'm on a journey to become a C++ master. Join me on
 - 🧙‍♂️ Simplifies inventory management, order creation, and report generation.
 - 🛡️ Implements secure registration and authorization with password hashing.
 - 📦 Utilizes an SQLite3 database for user and inventory data.
-- [🔗 GitHub Repository](https://github.com/seigtm/warehouse-management-system)
+- [🔗 GitHub Repository](https://github.com/seigtm/Qt-WMS)
 
 Let's transmute ideas into digital gold together! 🚀
