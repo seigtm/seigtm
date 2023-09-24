@@ -5,7 +5,7 @@
 🔮 As "The Code Alchemist," I transmute code into extraordinary solutions, wielding spells such as:
 
 - 💻 **C++ Sorcery**: Crafting elegant and efficient code.
-- 🛠️ **CMake Enchantments**: Mastering the art of build projects.
+- 🛠️ **CMake Enchantments**: Mastering the art of building projects.
 - 📚 **STL Wizardry**: Creating data wonders with the Standard Template Library.
 
 🌐 Explore my enchanted creations 😎  
