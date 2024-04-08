@@ -1,68 +1,76 @@
-# 👋 Greetings, fellow coders
+<h1 align="center">Hello, I'm Konstantin Baranov! 👋</h1>
 
-## I am Konstantin Baranov, "The Code Alchemist," conjuring magic on my ✨GitHub✨ profile
+<h2 align="center">A software engineer specializing in C++ development.</h2>
 
-🔮 As "The Code Alchemist," I transmute code into extraordinary solutions, wielding spells such as:
+<h3 align="center">Welcome to my ✨GitHub profile✨!</h3>
 
-- 💻 **C++ Sorcery**: Crafting elegant and efficient code.
-- 🛠️ **CMake Enchantments**: Mastering the art of building projects.
-- 📚 **STL Wizardry**: Creating data wonders with the Standard Template Library.
-
-🌐 Explore my enchanted creations 😎  
-[_Peer into my digital grimoire (RU)_](https://seigtm.github.io)
-
-✨ You can also find me in the digital realm:
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/seigtm)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=4F7DB3)](https://www.linkedin.com/in/seigtm)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/seigtm)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/theseig)
-
-🧙‍♂️ On a quest for knowledge and equipped with diverse skills, I aim to master C++. Join me on this journey! 🚀
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random dev quote">
+</div>
 
 ---
 
-## 🔑 Key Alchemical Ingredients
+## 👥 Contact me
 
-### Programming Languages 🪄
-
-- Solid knowledge of C++17 with experience in C++20.
-- Proficient in the arcane arts of C#, C, and SQL.
-- Currently exploring the realms of Python, HTML/CSS/JS to expand my spellbook.
-
-### Tongues of Wizardry 🌍
-
-- Fluent in the Russian tongue as my native language.
-- Proficient in the mystical language of English at a B2 level, adept at deciphering technical scrolls and communing with fellow English-speaking wizards.
-
-With a thirst for knowledge, I'm on a journey to become a C++ master. Join me on this adventure! 🚀
-
-![Metrics](https://github-readme-stats.vercel.app/api?username=seigtm&show_icons=true&theme=transparent)
+- 🔗 **LinkedIn:** [@seigtm](https://www.linkedin.com/in/seigtm).
+- ✈️ **Telegram:** [@seigtm](https://t.me/seigtm).
+- 📫 **Email:** [job@seig.ru](mailto:job@seig.ru).
+- 📄 **Russian resume:** [\*click me\*](https://seigtm.github.io).
 
 ---
 
-## 📦 Notable GitHub Projects
+## 🔧 Technologies
 
-### **MEOV 3D Model Viewer**
+- 🚀 **Primary languages:** C++ and C.
+- 📚 **Also familiar with:** Python, Fortran, Java, Kotlin, Rust.
+- 🔨 **Tools & technologies:** STL, Qt, CMake, Ninja, Make, Shell scripting, Boost, Android, Linux (including kernel development), Git, CI/CD, Google Test, Gcovr, Conan, Markdown, LaTex.
 
-- ✨ A simple, lightweight, and fast 3D model viewer.
-- 🧙‍♂️ Crafted with C++ magic and GLSL spells.
+![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seigtm&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🎓 Education
+
+- 🏆 **Diplomas with distinction:** "Software Engineer" and "Computer Operator" qualifications from St. Petersburg Polytechnic College of Urban Economy.
+- 📖 **Currently pursuing a degree in Software Engineering** through evening distance learning at Peter the Great St. Petersburg Polytechnic University (Institute of Computer Science and Cybersecurity, High School of Software Engineering).
+- ✔️ **Completed courses** at Novosibirsk Academy (HTML, CSS, C#, Unity) and Information Technologies, Mechanics, and Optics University (C and C++).
+
+---
+
+## 🌐 Languages
+
+- 🪆 **Russian:** Native.
+- 🫖 **English:** B2 (upper-intermediate), proficient in reading technical documentation and communicating with English-speaking colleagues.
+
+---
+
+## 📁 Main GitHub Projects
+
+### MEOV 3D Model Viewer
+
+- ✨ A simple, lightweight, fast, and user-friendly 3D model viewer.
+- ⚙️ Written in C++ with GLSL shader code.
 - 🛠️ Build orchestration with CMake.
-- [🔗 GitHub Repository](https://github.com/seigtm/meov)
+- 🔗 [GitHub Repository](https://github.com/seigtm/meov).
 
-### **setm::math C++ Math Library**
+### setm::math C++ Mathematical Library
 
 - ✨ A library of mathematical classes in C++.
-- 🧙‍♂️ Enchants your code with essential math structures.
 - 📚 Detailed README for configuration, building, and usage.
-- [🔗 GitHub Repository](https://github.com/seigtm/setm-math)
+- 🔗 [GitHub Repository](https://github.com/seigtm/setm-math).
 
-### **C++/Qt WMS (Warehouse Management System)**
+### C++/Qt Warehouse Management System (WMS)
 
 - ✨ An automated system for warehouse management.
-- 🧙‍♂️ Simplifies inventory management, order creation, and report generation.
+- ⚙️ Simplifies inventory management, order creation, and report generation.
 - 🛡️ Implements secure registration and authorization with password hashing.
 - 📦 Utilizes an SQLite3 database for user and inventory data.
-- [🔗 GitHub Repository](https://github.com/seigtm/Qt-WMS)
+- 🔗 [GitHub Repository](https://github.com/seigtm/Qt-WMS).
 
-Let's transmute ideas into digital gold together! 🚀
+---
+
+<div align="center">
+  <img src="https://randommeme-five.vercel.app" alt="Random dev meme">
+</div>
+
+---
