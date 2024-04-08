@@ -1,11 +1,13 @@
-<h1 align="center">Hello, I'm Konstantin Baranov! 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=seigtm">
 
-<h3 align="center">A software engineer specializing in C++ development.</h3>
-
-<h4 align="center">Welcome to my ✨GitHub profile✨!</h4>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=420&height=100&lines=Hello%2C+I'm+Konstantin+Baranov!+%F0%9F%91%8B;A+C%2B%2B+software+engineer.;Welcome+to+my+%E2%9C%A8GitHub+profile%E2%9C%A8!" alt="Greetings">
+  </a>
+</h1>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=dracula" alt="Random dev quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random dev quote">
 </div>
 
 ## 👥 Contact me
@@ -22,7 +24,7 @@
 - 🔨 **Tools & technologies:** STL, Qt, CMake, Ninja, Make, Shell scripting, Boost, Android, Linux (including kernel development), Git, CI/CD, Google Test, Gcovr, Conan, Markdown, LaTex.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seigtm&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used programming languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seigtm&theme=dracula&include_all_commits=true&layout=compact" alt="Most used programming languages">
 </div>
 
 ## 🎓 Education
@@ -58,6 +60,8 @@
 - 🛡️ Implements secure registration and authorization with password hashing.
 - 📦 Utilizes an SQLite3 database for user and inventory data.
 - 🔗 [GitHub Repository](https://github.com/seigtm/Qt-WMS).
+
+---
 
 <div align="center">
   <img src="https://randommeme-five.vercel.app" alt="Random dev meme">
