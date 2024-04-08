@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Konstantin Baranov! 👋</h1>
 
-<h2 align="center">A software engineer specializing in C++ development.</h2>
+<h3 align="center">A software engineer specializing in C++ development.</h3>
 
-<h3 align="center">Welcome to my ✨GitHub profile✨!</h3>
+<h4 align="center">Welcome to my ✨GitHub profile✨!</h4>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?theme=dracula" alt="Random dev quote">
@@ -21,7 +21,9 @@
 - 📚 **Also familiar with:** Python, Fortran, Java, Kotlin, Rust.
 - 🔨 **Tools & technologies:** STL, Qt, CMake, Ninja, Make, Shell scripting, Boost, Android, Linux (including kernel development), Git, CI/CD, Google Test, Gcovr, Conan, Markdown, LaTex.
 
-![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seigtm&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seigtm&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Most used programming languages">
+</div>
 
 ## 🎓 Education
 
