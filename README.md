@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random dev quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" alt="Random dev quote">
 </div>
 
 ## 👥 Contact me
