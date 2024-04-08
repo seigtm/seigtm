@@ -5,7 +5,7 @@
 <h3 align="center">Welcome to my ✨GitHub profile✨!</h3>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random dev quote">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dracula" alt="Random dev quote">
 </div>
 
 ## 👥 Contact me
