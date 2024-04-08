@@ -8,16 +8,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random dev quote">
 </div>
 
----
-
 ## 👥 Contact me
 
 - 🔗 **LinkedIn:** [@seigtm](https://www.linkedin.com/in/seigtm).
 - ✈️ **Telegram:** [@seigtm](https://t.me/seigtm).
 - 📫 **Email:** [job@seig.ru](mailto:job@seig.ru).
 - 📄 **Russian resume:** [\*click me\*](https://seigtm.github.io).
-
----
 
 ## 🔧 Technologies
 
@@ -27,22 +23,16 @@
 
 ![Most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seigtm&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
 ## 🎓 Education
 
 - 🏆 **Diplomas with distinction:** "Software Engineer" and "Computer Operator" qualifications from St. Petersburg Polytechnic College of Urban Economy.
 - 📖 **Currently pursuing a degree in Software Engineering** through evening distance learning at Peter the Great St. Petersburg Polytechnic University (Institute of Computer Science and Cybersecurity, High School of Software Engineering).
 - ✔️ **Completed courses** at Novosibirsk Academy (HTML, CSS, C#, Unity) and Information Technologies, Mechanics, and Optics University (C and C++).
 
----
-
 ## 🌐 Languages
 
 - 🪆 **Russian:** Native.
 - 🫖 **English:** B2 (upper-intermediate), proficient in reading technical documentation and communicating with English-speaking colleagues.
-
----
 
 ## 📁 Main GitHub Projects
 
@@ -67,10 +57,6 @@
 - 📦 Utilizes an SQLite3 database for user and inventory data.
 - 🔗 [GitHub Repository](https://github.com/seigtm/Qt-WMS).
 
----
-
 <div align="center">
   <img src="https://randommeme-five.vercel.app" alt="Random dev meme">
 </div>
-
----
