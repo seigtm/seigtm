@@ -24,7 +24,7 @@
 - 🔨 **Tools & technologies:** STL, Qt, CMake, Ninja, Make, Shell scripting, Boost, Android, Linux (including kernel development), Git, CI/CD, Google Test, Gcovr, Conan, Markdown, LaTex.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seigtm&theme=dracula&include_all_commits=true&layout=compact" alt="Most used programming languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seigtm&theme=dracula&include_all_commits=true&layout=compact&hide=PureBasic" alt="Most used programming languages">
 </div>
 
 ## 🎓 Education
