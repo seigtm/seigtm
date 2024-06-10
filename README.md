@@ -60,9 +60,3 @@
 - 🛡️ Implements secure registration and authorization with password hashing.
 - 📦 Utilizes an SQLite3 database for user and inventory data.
 - 🔗 [GitHub Repository](https://github.com/seigtm/Qt-WMS).
-
----
-
-<div align="center">
-  <img src="https://randommeme-five.vercel.app" alt="Random dev meme">
-</div>
